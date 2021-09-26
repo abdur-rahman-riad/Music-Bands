@@ -1,0 +1,164 @@
+[
+  {
+    "key": "614f645faf3c80d3469f1f85",
+    "cost": "120000",
+    "image": "https://images.hive.blog/p/2N61tyyncFaFnNFKLegVvzmsrMAExSDXzsHdqwaiS2fhQLhSnHjKRcSR2Whh7M7VTW4P9TTgd8ydxxPMtWboVjJ5JA24Bpd25W6mtQtwfdBfa6QJ8LZeG8RZjpGYoYxgL7fjHgqgxyMx?format=match&mode=fit",
+    "bandName": "Nogor Baul Band",
+    "leadVocal": "Faruq Mahfuz Anam (James)",
+    "song": 11,
+    "genres": "Psychedelic Rock, Hard Rock, Blues Rock"
+  },
+  {
+    "key": "614f645fc0efd026ff1c020f",
+    "cost": "800000",
+    "image": "https://alchetron.com/cdn/artcell-c89166e5-9182-4d4a-969b-433807a321f-resize-750.jpeg",
+    "bandName": "Artcell Band",
+    "leadVocal": "George Lincoln D'costa",
+    "song": 10,
+    "genres": "Progressive metal, Alternative Rock "
+  },
+  {
+    "key": "614f645f2f840300bbc11d78",
+    "cost": "520000",
+    "image": "https://ashesbd.com/assets/images/gallery7.jpg",
+    "bandName": "Ashes Band",
+    "leadVocal": "Zunayed Evan",
+    "song": 9,
+    "genres": "Rock, Pop"
+  },
+  {
+    "key": "614f645f0b157ac6e2c04d30",
+    "cost": "950000",
+    "image": "https://live.staticflickr.com/7728/27587437201_7db8d20e94_b.jpg",
+    "bandName": "Warfaze Band",
+    "leadVocal": "Palash Noor",
+    "song": 10,
+    "genres": "Heavy metal, Hard Rock"
+  },
+  {
+    "key": "614f645fa0f27fd25c771dd9",
+    "cost": "700000",
+    "image": "https://media-eng.dhakatribune.com/uploads/2017/10/AURTHOHIN_edited.jpg",
+    "bandName": "Aurthohin Band",
+    "leadVocal": "Saidus Sumon",
+    "song": 8,
+    "genres": "Heavy metal, groove metal, progressive metalcore, alternative metal, hard rock"
+  },
+  {
+    "key": "614f645fa602c7906a7f39b6",
+    "cost": "580000",
+    "image": "https://media-eng.dhakatribune.com/uploads/2017/10/gggggggggggg.jpg",
+    "bandName": "Shironamhin Band",
+    "leadVocal": "Tanzir Tuhin",
+    "song": 6,
+    "genres": "Alternative rock, folk rock, psychedelic roc, progressive rock, symphonic rock"
+  },
+  {
+    "key": "614f645fed982c3c9be3fd43",
+    "cost": "550000",
+    "image": "https://media-eng.dhakatribune.com/uploads/2019/08/miles-web-1564662547228.gif",
+    "bandName": "Miles Band",
+    "leadVocal": "Shafin Ahmed",
+    "song": 10,
+    "genres": "Pop rock, blues rock"
+  },
+  {
+    "key": "614f645f58a449a70caa90c8",
+    "cost": "680000",
+    "image": "https://lastfm.freetls.fastly.net/i/u/ar0/f20f6b7471e8d442651c48ef2b827e42.jpg",
+    "bandName": "Arbovirus Band",
+    "leadVocal": "Sufi Maverick",
+    "song": 12,
+    "genres": "Alternative rock, alternative metal rock"
+  },
+  {
+    "key": "614f645f0baa74b0b812ab5b",
+    "cost": "325000",
+    "image": "https://3.bp.blogspot.com/-rfAPnVsbVpk/T9SOHeY57OI/AAAAAAAAAFI/2PbHZYQFZcI/w1200-h630-p-k-no-nu/folder.jpg",
+    "bandName": "Black Band",
+    "leadVocal": "Rubayet Chowdhury",
+    "song": 9,
+    "genres": "Alternative rock, grunge"
+  },
+  {
+    "key": "614f645f0e50451a35798cb5",
+    "cost": "560000",
+    "image": "https://media-eng.dhakatribune.com/uploads/2014/04/12-shunno-bhago-high-res.jpg",
+    "bandName": "Shunno Band",
+    "leadVocal": "Imrul Karim Emil",
+    "song": 8,
+    "genres": "Alternative rock, Pop rock, Pop"
+  },
+  {
+    "key": "614f645fdafca11318f66b67",
+    "cost": "623000",
+    "image": "https://observerbd.com/2019/08/23/observerbd.com_1566578083.jpg",
+    "bandName": "Chirkutt Band",
+    "leadVocal": "Sharmin Sultana Sumi",
+    "song": 7,
+    "genres": "Rock, pop rock"
+  },
+  {
+    "key": "614f645fe60f05fb08f4b036",
+    "cost": "185000",
+    "image": "https://media-eng.dhakatribune.com/uploads/2014/08/12dsf.jpg",
+    "bandName": "Lalon Band",
+    "leadVocal": "Nigar Sultana Sumi",
+    "song": 5,
+    "genres": "Folk rock"
+  },
+  {
+    "key": "614f645f86b334cdff1a95ac",
+    "cost": "375000",
+    "image": "https://media-eng.dhakatribune.com/uploads/2019/08/nemesis-web-1566309380024.gif",
+    "bandName": "Nemesis Band",
+    "leadVocal": "Zohad Reza Chowdhury",
+    "song": 8,
+    "genres": "Alternative rock"
+  },
+  {
+    "key": "614f645fed3343966696c0a4",
+    "cost": "425000",
+    "image": "https://www.channelionline.com/wp-content/uploads/2017/03/Joler-Gann.jpg",
+    "bandName": "Joler Gaan Band",
+    "leadVocal": "Rahul Anand",
+    "song": 5,
+    "genres": "folk bandName"
+  },
+  {
+    "key": "614f645f6d67d7501ef09598",
+    "cost": "360000",
+    "image": "https://media-eng.dhakatribune.com/uploads/2020/02/web-1582723750151.jpg",
+    "bandName": "Avash Band",
+    "leadVocal": "Tanzir Tuhin",
+    "song": 7,
+    "genres": "Alternative rock"
+  },
+  {
+    "key": "614f645f34384bc8674a7df6",
+    "cost": "350000",
+    "image": "https://i.ytimg.com/vi/SlFTiQF_V4k/maxresdefault.jpg",
+    "bandName": "Dalchhut Band",
+    "leadVocal": "Bappa Mazumder",
+    "song": 5,
+    "genres": "Pop"
+  },
+  {
+    "key": "614f645ff36caabc6956168a",
+    "cost": "270000",
+    "image": "https://s2.dmcdn.net/v/JaHG_1RNh5Kkxd57W/x1080",
+    "bandName": "Bangla Band",
+    "leadVocal": "Anusheh Anadil",
+    "song": 7,
+    "genres": "Pop Rock"
+  },
+  {
+    "key": "614f645f5138084f103a80c8",
+    "cost": "185000",
+    "image": "https://ibtn9.com/wp-content/uploads/2020/01/Untitled-1-2-750x470.jpg",
+    "bandName": "Prithibi Band",
+    "leadVocal": "Kaushik Chakraborty",
+    "song": 5,
+    "genres": "Alternative Rock, Bangla Rock"
+  }
+]
