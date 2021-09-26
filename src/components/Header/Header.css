@@ -4,14 +4,17 @@
     align-items: center;
 }
 
-.header-section img{
+.concert-logo img{
     width: 120px;
+}
+.foundation-logo img{
+    width: 160px;
 }
 
 .header-info{
     text-align: center;
 }
-.header-info h1,h2,h3{
+.header-info h1,h2,h3,p{
     margin: 0;
 }
 .header-info h1{
@@ -23,4 +26,9 @@
 }
 .header-info h2{
     color: darkslategray;
+}
+.header-info p{
+    font-size: 13px;
+    font-style: italic;
+    color: gray;
 }

@@ -1,4 +1,6 @@
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faAddressBook } from '@fortawesome/free-solid-svg-icons';
 import "./Band.css";
 
 const Band = (props) => {
@@ -17,7 +19,7 @@ const Band = (props) => {
                 <h3>Cost: {cost} tk</h3>
             </div>
             <div className="band-invite">
-                <button>Invite Now</button>
+                <button onClick={() => props.inviteNowButton(props.band)}> <FontAwesomeIcon icon={faAddressBook} /> Invite Now</button>
             </div>
         </div>
     );

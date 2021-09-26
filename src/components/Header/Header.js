@@ -14,6 +14,7 @@ const Header = () => {
                 {/* Header Information */}
                 <div className="header-info">
                     <h1>Celebrate DIU Foundation Day</h1>
+                    <p>(This day is the biggest celebration day of Daffodil International University)</p>
                     <h3>Invite your favorite Bangladeshi music band for enjoying the day</h3>
                     <h2>Budget 50 Lakhs Taka</h2>
                 </div>

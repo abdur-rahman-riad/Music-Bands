@@ -7,11 +7,10 @@
 .bands-container{
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    grid-gap: 8px;
+    grid-gap: 15px;
 }
 .cart-container{
-    text-align: center;
-    padding: 5px;
+    padding: 5px 10px;
     border: 1px solid lightgray;
     border-radius: 5px;
     background-color: white;
