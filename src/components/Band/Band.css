@@ -38,3 +38,6 @@
 .band-invite button:hover{
     background-color: darkslategray;
 }
+.band-detalis span{
+    font-weight: bold;
+}

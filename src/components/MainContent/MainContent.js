@@ -20,6 +20,7 @@ const MainContent = () => {
     const inviteNowButton = band => {
         const newCart = [...cart, band];
         setCart(newCart);
+
     }
 
     return (

@@ -1,6 +1,5 @@
 import React from 'react';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faAddressBook } from '@fortawesome/free-solid-svg-icons';
+import { FaEnvelopeOpenText } from "react-icons/fa";
 import "./Band.css";
 
 const Band = (props) => {
@@ -14,12 +13,12 @@ const Band = (props) => {
             </div>
             <div className="band-detalis">
                 <h4>Vocal: {leadVocal}</h4>
-                <p>They will sing {song} songs</p>
-                <p>Genres: {genres}</p>
+                <p><span>Quantity:</span> They will sing <span>{song}</span> songs</p>
+                <p><span>Genres:</span> {genres}</p>
                 <h3>Cost: {cost} tk</h3>
             </div>
             <div className="band-invite">
-                <button onClick={() => props.inviteNowButton(props.band)}> <FontAwesomeIcon icon={faAddressBook} /> Invite Now</button>
+                <button onClick={() => props.inviteNowButton(props.band)}> <FaEnvelopeOpenText /> Invite Now</button>
             </div>
         </div>
     );

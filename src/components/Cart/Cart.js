@@ -1,7 +1,6 @@
 import React from 'react';
 import InvitedBand from '../InvitedBand/InvitedBand';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faSave } from '@fortawesome/free-solid-svg-icons';
+import { FaClipboardCheck } from "react-icons/fa";
 import "./Cart.css";
 
 const Cart = (props) => {
@@ -26,7 +25,7 @@ const Cart = (props) => {
                 ></InvitedBand>)
             }
 
-            <button className="confirm-button"> <FontAwesomeIcon icon={faSave} /> Confirm</button>
+            <button className="confirm-button"> <FaClipboardCheck /> Confirm</button>
         </div>
     );
 };
